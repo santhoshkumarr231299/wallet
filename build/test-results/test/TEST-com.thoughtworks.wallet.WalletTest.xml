@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.wallet.WalletTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-13T11:19:27" hostname="gurushifu-gurushifugitp-b0j1o9k66ox" time="0.061">
+  <properties/>
+  <testcase name="shouldDepositAmount()" classname="com.thoughtworks.wallet.WalletTest" time="0.015"/>
+  <testcase name="shouldReturnFalseWhenAdding10Amount()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <testcase name="shouldReturnFalseWhenAdding15Amount()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <testcase name="shouldReturnErrorWhenTheAmountIsPutInNegative()" classname="com.thoughtworks.wallet.WalletTest" time="0.002"/>
+  <testcase name="shouldReturnTrueWhenAmountIsZeroInNewWallet()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <testcase name="shouldDepositAmountTwiceWhenAddingAmount()" classname="com.thoughtworks.wallet.WalletTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
